@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ramkrishna8888
+- 👋 Hi, I’m Ram Krishna Pandey
 - 👀 I’m interested in Data Science and Software developement
 - 🌱 I’m currently learning C++, PostgreSQL and python
 - 💞️ I’m looking to collaborate on some data analysis projects
