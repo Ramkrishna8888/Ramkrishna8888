@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ram Krishna Pandey
 - 👀 I’m interested in Data Science and Software developement
 - 🌱 I’m currently learning JAVA, C++, PostgreSQL and python
-- 💞️ I’m looking to collaborate on some data analysis projects
+- 💞️ I’m looking to collaborate on some data analysis and Software developement projects
 - 📫 Reach me via my linkedin "Ram krishna pandey" or you can check it out the link in my profile
 - 😄 Pronouns: he/him
 - ⚡ Fact: If at first you don’t succeed; call it version 1.0
